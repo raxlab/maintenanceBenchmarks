@@ -11,6 +11,10 @@ by [Anthony D. Cho](https://www.raxlab.science/author/anthony-d.-cho-lo/), [Rodr
 
 Paper information available here: [summary]().
 
+## Version 1.0
+
+### Update 2022-01-10
+- Uploaded instances, scenario generator, and pdf with visualization.
 
 ## Files in this repository:
 
