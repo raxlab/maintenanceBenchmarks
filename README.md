@@ -1,4 +1,7 @@
 <!-- # maintenanceBenchmarks -->
+You can cite this dataset using the following DOI:
+
+[![DOI](https://zenodo.org/badge/445512888.svg)](https://zenodo.org/badge/latestdoi/445512888)
 
 # Benchmarks for Maintenance Problems
 
